@@ -21,7 +21,7 @@ It is designed to illustrate code building using these standards and is not full
 
 ## To compile project
 
-- mvn clean package -U -T 2
+- mvn clean package compile -U -T 2
 
 ## To run API
 
