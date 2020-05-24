@@ -3,9 +3,9 @@ package br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.service.im
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.exception.NotFoundException
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.Super
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.TypeOfSuper
-import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.Villain
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.villain.Joker
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.villain.LexLuthor
+import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.villain.Villain
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.villain.BlackStingray
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.service.SuperService
 import org.springframework.stereotype.Component

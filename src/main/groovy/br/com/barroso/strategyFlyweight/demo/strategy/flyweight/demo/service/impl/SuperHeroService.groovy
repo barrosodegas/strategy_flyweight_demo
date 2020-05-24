@@ -1,11 +1,11 @@
 package br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.service.impl
 
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.exception.NotFoundException
-import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.Hero
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.Super
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.TypeOfSuper
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.hero.Aquaman
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.hero.Batman
+import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.hero.Hero
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.model.hero.Superman
 import br.com.barroso.strategyFlyweight.demo.strategy.flyweight.demo.service.SuperService
 import org.springframework.stereotype.Component
