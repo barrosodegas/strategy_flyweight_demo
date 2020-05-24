@@ -7,7 +7,7 @@ This combination of design patterns is indicated when we need to process the sam
 
 It is designed to illustrate code building using these standards and is not fully finalized. This REST API brings data from super heroes and super villains based on the information passed on the endpoint call it exposes.
 
-### This is a spring boot project with java 11 and Groovy.
+### This is a spring boot project with java 14 and Groovy.
 
 ### BDD tests were also built to cover all scenarios foreseen in these operations.
 
@@ -25,6 +25,6 @@ It is designed to illustrate code building using these standards and is not full
 
 ## To run API
 
-With java 11 version
+With java 14 version
 
 - java -jar (absolute path to file)/strategy_flyweight_demo.jar
